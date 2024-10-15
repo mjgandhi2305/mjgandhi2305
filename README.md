@@ -51,7 +51,7 @@
 
 ## 🤝 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/mitengandhi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/miten-j-gandhi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/mjgandhi2305"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mjgandhi2305@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 </p>
