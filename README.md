@@ -44,6 +44,19 @@
 - **Repository:** [GitHub Link](https://github.com/Vatsal565/final)
 - **Demo:** [Live Demo](https://financio2.vercel.app/)
 
+### 2. Hand Tracking-based System Volume Control
+- **Description:** A system that adjusts the computer volume based on hand tracking using a webcam.
+- **Tech Stack:** Python, OpenCV, PyCaw
+- **Repository:** [GitHub Link](https://github.com/mjgandhi2305/Gesture-Volume-Control)
+
+### 3. Movie Recommender System
+- **Description:** A machine learning model that recommends movies based on user preferences and viewing history.
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Flask (if using a web interface)
+- **Repository:** [GitHub Link](https://github.com/mjgandhi2305/movie-recommender) (Add the actual link)
+- **Demo:** [Live Demo] (https://movie-recommender-tc7j.onrender.com/) 
+
+
+
 
 
 ## 📊 GitHub Stats
