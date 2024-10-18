@@ -62,7 +62,9 @@
 ## 📊 GitHub Stats
 
 ![mjgandhi2305's Stats](https://github-readme-stats.vercel.app/api?username=mjgandhi2305&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+
 ![mjgandhi2305's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjgandhi2305&theme=blue-green&hide_border=true)
+
 ![mjgandhi2305's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjgandhi2305&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 ## 🤝 Connect with me
