@@ -38,8 +38,13 @@
 - Computer Vision
 
 ## 👨‍💻 Projects
-<!-- You can add your projects here once you have some to showcase -->
-- Coming soon! Stay tuned for exciting AI projects.
+### 1. Financio - Personal Finance SaaS Application
+- **Description:** A full-fledged finance management platform to manage accounts, transactions, and categories.
+- **Tech Stack:** Next.js, Hono API, Drizzle ORM, PostgreSQL, Shadcn UI, Clerk, Recharts, TanStack Table, Tailwind CSS, Framer Motion
+- **Repository:** [GitHub Link](https://github.com/Vatsal565/final)
+- **Demo:** [Live Demo](https://financio2.vercel.app/)
+
+
 
 ## 📊 GitHub Stats
 
