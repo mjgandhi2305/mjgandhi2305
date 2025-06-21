@@ -1,7 +1,7 @@
 # Hello World! 👋 I'm Miten Gandhi
 
 ## 🎓 About Me
-- 🏫 Sophomore at NIT Surat, majoring in Artificial Intelligence
+- 🏫 Junior at SVNIT Surat, majoring in Artificial Intelligence
 - 🧠 Currently diving deep into the world of Deep Learning
 - 💡 Passionate about AI and its applications
 - 🎉 Fun fact: I once debugged a machine learning model at 3 AM and found the bug was a misplaced comma!
